@@ -1,5 +1,5 @@
 # What this is
-**I made this discord bot for people who want to learn python but don't know how to start, I would've made this a webstie but I couldn't host the website 24/7.**
+**I made this discord bot for people who want to learn python but don't know how to start, I would've made this a website but I couldn't host the website 24/7.**
 --------------------------------
 # How it works.
 --------------------------------
@@ -19,4 +19,4 @@ The bot is probably offline because there is either a ground breaking issue with
 --------------------------------
 # Final Notes:
 There isn't really much to say apart from, I hope you learn something from the bot and understand much more python than you initially did and you actually make use of the bot. Thanks for reading!
---------------------------------
+--------
