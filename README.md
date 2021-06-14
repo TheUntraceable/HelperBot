@@ -2,7 +2,6 @@
 **I made this discord bot for people who want to learn python but don't know how to start, I would've made this a website but I couldn't host the website 24/7.**
 --------------------------------
 # How it works.
---------------------------------
 The bot will ask some questions and depending on your answers, the bot will give you a variety of challenges, what the bot will do, is run your code, and then compare it to the expected results, this of course will not be hardcoded. If you have any issues either make a issue or DM me on Discord, The Untraceable#4852.
 --------------------------------
 # Where is the invite for the bot?
