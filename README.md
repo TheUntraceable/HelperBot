@@ -1,5 +1,5 @@
 # What this is
-**I made this discord bot for people who want to learn python but don't know how to start, I would've made this a website but I couldn't host the website 24/7.**
+**I made this discord bot for people who want to learn python but don't know how to start, ~~I would've made this a website but I couldn't host the website 24/7.~~ There will be a website soon, thanks to [NotTimIsReal](https://github.com/NotTimIsReal) for informing be about Github pages :). I'll get to work on this website after I finsih rewriting my bot. 
 --------------------------------
 # How it works.
 The bot will ask some questions and depending on your answers, the bot will give you a variety of challenges, what the bot will do, is run your code, and then compare it to the expected results, this of course will not be hardcoded. If you have any issues either make a issue or DM me on Discord, The Untraceable#4852.
@@ -19,3 +19,8 @@ The bot is probably offline because there is either a ground breaking issue with
 # Final Notes:
 There isn't really much to say apart from, I hope you learn something from the bot and understand much more python than you initially did and you actually make use of the bot. Thanks for reading!
 --------
+
+**<--- TODO --->**
+Make a page explaining List Indexing so that not everyone has to use Discord
+Add some more questions about List indexing
+Add a few more topics to cover.
