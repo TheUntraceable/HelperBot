@@ -1,5 +1,5 @@
 # What this is
-**I made this discord bot for people who want to learn python but don't know how to start, ~~I would've made this a website but I couldn't host the website 24/7.~~ There will be a website soon, thanks to [NotTimIsReal](https://github.com/NotTimIsReal) for informing be about Github pages :). I'll get to work on this website after I finsih rewriting my bot. 
+**I made this discord bot for people who want to learn python but don't know how to start, ~~I would've made this a website but I couldn't host the website 24/7.~~ There will be a website soon, thanks to [NotTimIsReal](https://github.com/NotTimIsReal) for informing be about Github pages :). I'll get to work on this website after I finsih rewriting my bot.** 
 --------------------------------
 # How it works.
 The bot will ask some questions and depending on your answers, the bot will give you a variety of challenges, what the bot will do, is run your code, and then compare it to the expected results, this of course will not be hardcoded. If you have any issues either make a issue or DM me on Discord, The Untraceable#4852.
